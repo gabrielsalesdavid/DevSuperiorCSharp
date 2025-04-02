@@ -2,7 +2,7 @@ using System;
 
 namespace DevSuperior {
 
-    public class Aula02 {
+    public class Aula01 {
 
         public static void Main(String[] args) {
 
